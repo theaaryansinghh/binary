@@ -1,4 +1,4 @@
-# 🧠 Binary & Files: A Guide for People Who Thought Computers Were Magic
+# Binary & Files: A Guide for People Who Thought Computers Were Magic
 
 > *Spoiler: they're not. It's just a lot of 1s and 0s having an existential crisis.*
 
